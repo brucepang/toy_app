@@ -1,0 +1,2 @@
+class Miscropost < ApplicationRecord
+end
